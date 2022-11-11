@@ -1,0 +1,26 @@
+std::vector<std::vector<vec3>> surface_control_points{
+        std::vector<vec3>{
+                vec3(0.0f, 9.0f, 0.0f),
+                vec3(0.0f, 0.0f, 3.0f),
+                vec3(0.0f, 0.0f, 6.0f),
+                vec3(0.0f, 0.0f, 9.0f),
+        },
+        std::vector<vec3>{
+                vec3(3.0f, 9.0f, 0.0f),
+                vec3(3.0f, 0.0f, 3.0f),
+                vec3(3.0f, 0.0f, 6.0f),
+                vec3(3.0f, 0.0f, 9.0f),
+        },
+        std::vector<vec3>{
+                vec3(6.0f, 9.0f, 0.0f),
+                vec3(6.0f, 0.0f, 3.0f),
+                vec3(6.0f, 0.0f, 6.0f),
+                vec3(6.0f, 0.0f, 9.0f),
+        },
+        std::vector<vec3>{
+                vec3(9.0f, 9.0f, 0.0f),
+                vec3(9.0f, 0.0f, 3.0f),
+                vec3(9.0f, 0.0f, 6.0f),
+                vec3(9.0f, 0.0f, 9.0f),
+        }
+};
